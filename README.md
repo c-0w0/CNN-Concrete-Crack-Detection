@@ -1,5 +1,10 @@
 A deep learning model to classify concrete surfaces as **"Cracked" (Positive)** or **"Not Cracked" (Negative)** using convolutional neural networks (CNN).
 
+## Result
+binary_accuracy: 0.9998 - loss: 0.0012 - val_binary_accuracy: 0.9991 - val_loss: 0.0036
+
+F1 score: 99.91%
+
 ## Dataset
 The dataset consists of concrete surface images divided into two classes:
 - **Negative**: Images without cracks
